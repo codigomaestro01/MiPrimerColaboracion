@@ -25,23 +25,34 @@ Mi nombre es: ${nombreAlumnoUno} ${apellidoAlumnoUno}, tengo ${edadAlumnoUno} a�
 
 let misNombres = "Wendell Armengol";
 let misApellidos = "Jarquin Vivas";
-let miCarrera = "Igeniaria en sistemas"
+let miCarrera = "Ingeniería en Sistemas"
 let miEdad = 18;
 
 var dataWendell = document.getElementById("dataWendell");
 
 dataWendell.innerHTML = `
-Mi nombre es: ${misNombres} ${misApellidos}, tengo <span class="miEdad">${miEdad}</span> de edad, estudio la carrera de <span class="miCarrera">${miCarrera}</span> en URACCAN.
+Mi nombre es: ${misNombres} ${misApellidos}, tengo <span class="miEdad">${miEdad}</span> años de edad, estudio la carrera de <span class="miCarrera">${miCarrera}</span> en URACCAN.
 `;
 // __________________________________ Final ____________________________________
 
 // Datos de Oscar Vivas:
 let miNombres = "Oscar  anival";
 let miApellidos = "Vivas  Savedra";
-let micarrera = "Igeniaria en sistemas"
+let micarrera = "Ingeniería en Sistemas"
 let miedad = 18;
 var dataoscar = document.getElementById("dataoscar");
 
 dataoscar.innerHTML = `
-Mi nombre es: ${miNombres} <span class="miApellidos"> ${miApellidos}</span>, tengo <span class="miEdad">${miedad}</span> de edad, estudio la carrera de <span class="miCarrera">${micarrera}</span> en URACCAN.
+Mi nombre es: ${miNombres} <span class="miApellidos"> ${miApellidos}</span>, tengo <span class="miEdad">${miedad}</span> años de edad, estudio la carrera de <span class="miCarrera">${micarrera}</span> en URACCAN.
 `;
+
+// Datos de Harry Chow:
+let miNombre = "Harry Onaldo";
+let miApellido = "Chow Duarte";
+let carrera = "Ingenieria en Sistemas";
+let edad = 19;
+
+var dataHarry = document.getElementById("dataHarry")
+
+dataHarry.innerHTML = `
+Mi nombre es: ${miNombre} ${miApellido} tengo <span class="year">${edad}</span> años de edad y estudio la carrera de <span class= "carrer"> ${carrera} </span> en URACCAN.`;
