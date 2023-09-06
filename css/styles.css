@@ -44,3 +44,19 @@ h1 {
 }
 
 /* _______________________Final_________________________ */
+.dataoscar {
+
+    color: black;
+    font-size: 20px;
+    font-family: Arial;
+}
+.dataoscar .miEdad {
+    color: rgb(229, 255, 0);
+    /* Cambio el color amarillo para la edad */
+}
+.dataoscar .miApellidos {
+
+    color: rgb(250, 10, 10);
+    font-size: 20px;
+    font-family: Arial;
+}
