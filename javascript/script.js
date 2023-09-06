@@ -33,5 +33,15 @@ var dataWendell = document.getElementById("dataWendell");
 dataWendell.innerHTML = `
 Mi nombre es: ${misNombres} ${misApellidos}, tengo <span class="miEdad">${miEdad}</span> de edad, estudio la carrera de <span class="miCarrera">${miCarrera}</span> en URACCAN.
 `;
-
 // __________________________________ Final ____________________________________
+
+// Datos de Oscar Vivas:
+let miNombres = "Oscar  anival";
+let miApellidos = "Vivas  Savedra";
+let micarrera = "Igeniaria en sistemas"
+let miedad = 18;
+var dataoscar = document.getElementById("dataoscar");
+
+dataoscar.innerHTML = `
+Mi nombre es: ${miNombres} <span class="miApellidos"> ${miApellidos}</span>, tengo <span class="miEdad">${miedad}</span> de edad, estudio la carrera de <span class="miCarrera">${micarrera}</span> en URACCAN.
+`;
