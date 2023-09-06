@@ -1,5 +1,2 @@
 .DS_Store
-
-# Editor directories and files
-.vscode
-.archivo.txt
+*.txt
