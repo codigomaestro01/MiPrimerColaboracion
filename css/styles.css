@@ -1,0 +1,23 @@
+body{
+    background-color: lightgoldenrodyellow;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    color: green;
+    width: 230x;
+}
+
+.maestro {
+    color: red;
+    font-size:30px;
+    font-family:Verdana;
+}
+
+.alumnoUno {
+    color: violet;
+    font-size:20px;
+    font-family:Arial;
+}
+
+/* COMIENZO DE CODIGO DE ALUMNOS */
