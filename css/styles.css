@@ -1,4 +1,4 @@
-body{
+body {
     background-color: lightgoldenrodyellow;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
@@ -10,14 +10,37 @@ h1 {
 
 .maestro {
     color: red;
-    font-size:30px;
-    font-family:Verdana;
+    font-size: 30px;
+    font-family: Verdana;
 }
 
 .alumnoUno {
     color: violet;
-    font-size:20px;
-    font-family:Arial;
+    font-size: 20px;
+    font-family: Arial;
 }
 
 /* COMIENZO DE CODIGO DE ALUMNOS */
+
+
+/* CSS de Wendell Jarquin */
+
+.datWendell {
+
+    color: black;
+    font-size: 20px;
+    font-family: Arial;
+}
+
+.datWendell .miEdad {
+    color: red;
+    /* Cambio el color a rojo para la edad */
+}
+
+.datWendell .miCarrera {
+    font-family: sans-serif;
+    color: rgb(1, 139, 24);
+    /* Cambio el color a rojo para la edad */
+}
+
+/* _______________________Final_________________________ */
