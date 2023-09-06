@@ -25,7 +25,7 @@ Mi nombre es: ${nombreAlumnoUno} ${apellidoAlumnoUno}, tengo ${edadAlumnoUno} a√
 
 let misNombres = "Wendell Armengol";
 let misApellidos = "Jarquin Vivas";
-let miCarrera = "Igeniaria en sistemas"
+let miCarrera = "Igenieria en sistemas"
 let miEdad = 18;
 
 var dataWendell = document.getElementById("dataWendell");
