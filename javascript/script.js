@@ -19,3 +19,18 @@ Mi nombre es: ${nombreAlumnoUno} ${apellidoAlumnoUno}, tengo ${edadAlumnoUno} a√
 `;
 
 // COMIENZO DE CODIGO ALUMNOS
+
+let nombreIng = "Hadyi Ali"; 
+let apellidoIng = "Davila Hernandez"; 
+let edadIng = 18;
+let colegioSextoGradoIng = "Alfa y Omega";
+
+var dataAlumnoIng = document.getElementById("dataAlumnoIng");
+dataAlumnoIng.innerHTML = `
+Mi nombre es: ${nombreIng} ${apellidoIng}, tengo ${edadIng} a√±os
+`;
+
+var colegioSexto = document.getElementById("colegioSexto");
+colegioSexto.innerHTML = `
+mi sexto grado lo estudie en el colegio ${colegioSextoGradoIng}
+`;
