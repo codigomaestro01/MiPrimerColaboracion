@@ -56,3 +56,12 @@ var dataHarry = document.getElementById("dataHarry")
 
 dataHarry.innerHTML = `
 Mi nombre es: ${miNombre} ${miApellido} tengo <span class="year">${edad}</span> años de edad y estudio la carrera de <span class= "carrer"> ${carrera} </span> en URACCAN.`;
+
+// Datos de Nathalie:
+var nombresnathalie = "Nathalie Wilmara";
+var apellidosnathalie = "Castillo Barrera";
+var carreranathalie = "Ingieneria en sistemas";
+var edadnathalie = 17;
+datanathalie.innerHTML = `
+Soy <span class="nombresnathalie"> ${nombresnathalie} </span> <span class="apellidosnathalie">${apellidosnathalie} </span> tengo <span class="edadnathalie"> ${edadnathalie}</span> años de edad, estudio la carrera de ${carreranathalie} en la universidad URACCAN.
+`;
