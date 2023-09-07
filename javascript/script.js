@@ -65,3 +65,14 @@ var edadnathalie = 17;
 datanathalie.innerHTML = `
 Soy <span class="nombresnathalie"> ${nombresnathalie} </span> <span class="apellidosnathalie">${apellidosnathalie} </span> tengo <span class="edadnathalie"> ${edadnathalie}</span> años de edad, estudio la carrera de ${carreranathalie} en la universidad URACCAN.
 `;
+
+//Datos de Josue:
+let Nombres = "Josue David";
+let Apellidos = "Espinoza Salgado";
+let Edad = 18;
+
+var dataJosue = document.getElementById("dataJosue");
+
+dataJosue.innerHTML = `
+Mi nombre es: ${Nombres} <span class="apellidos"> ${Apellidos}</span> tengo <span class="años"> ${Edad}</span> años de edad.
+`;
