@@ -68,4 +68,24 @@ h1 {
     color: rgb(112, 59, 23)
 }
 
+.datanathalie {
+
+    color: black;
+;
+}
+.datanathalie .edadnathalie {
+    color: yellow;
+}
+.datanathalie .nombresnathalie {
+
+    color: violet;
+}
+.datanathalie .apellidosnathalie {
+
+    color: violet;
+}
+h1 {
+    color:black;
+    font-family: system-ui;
+}
 /* _______________________Final_________________________ */
