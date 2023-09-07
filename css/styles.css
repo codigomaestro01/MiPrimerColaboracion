@@ -88,4 +88,10 @@ h1 {
     color:black;
     font-family: system-ui;
 }
+.dataJosue .apellidos {
+    color: brown;
+}
+.dataJosue .años {
+    color: green;
+}
 /* _______________________Final_________________________ */
