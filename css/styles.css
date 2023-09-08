@@ -50,10 +50,12 @@ h1 {
     font-size: 20px;
     font-family: Arial;
 }
+
 .dataoscar .miEdad {
     color: rgb(229, 255, 0);
     /* Cambio el color amarillo para la edad */
 }
+
 .dataoscar .miApellidos {
 
     color: rgb(250, 10, 10);
@@ -62,6 +64,7 @@ h1 {
 }
 
 
+//codigo agredado
 .apellidoEstudent{
     color: green;
 }
@@ -69,3 +72,96 @@ h1 {
 .edadEstudent{
     color: rgb(0, 0, 255);
 }
+
+.dataHarry .year {
+    font-family: Arial;
+}
+
+.dataHarry .carrer {
+    width: 40px;
+    color: rgb(112, 59, 23)
+}
+
+.datanathalie {
+
+    color: black;
+    ;
+}
+
+.datanathalie .edadnathalie {
+    color: yellow;
+}
+
+.datanathalie .nombresnathalie {
+
+    color: violet;
+}
+
+.datanathalie .apellidosnathalie {
+
+    color: violet;
+}
+
+/*josue*/
+h1 {
+    color: black;
+    font-family: system-ui;
+}
+
+.dataJosue .apellidos {
+    color: brown;
+}
+
+.dataJosue .años {
+    color: green;
+}
+
+/* _______________________Final_________________________ */
+
+/*Marily*/
+h1 {
+    color: black;
+    font-family: system-ui;
+}
+
+.dataMarily .colegio {
+    color: blue;
+}
+
+/* _______________________Final_________________________ */
+.datamarvin {
+    color: black;
+}
+
+.dataMarvin .edadmarvin{
+    font-family: Arial;
+}
+.dataMarvin .carrera{
+    color: brown;
+    width: 60 px;
+}
+h1 {
+    color: black;
+    font-family: monospace;
+}
+/* _______________________Final_________________________ */
+
+.dataAli .escuela {
+    color:blue
+}
+
+.dataJorman .carrerajorman {
+    width: 40px;
+    color: brown;
+}
+
+.dataJorman .edadjorman {
+    font-family: sans-serif;
+    /* Cambio de fuente san-serif para la edad */
+}
+/* _______________________Final_________________________ */
+
+.dataLesther .colegio {
+    color:green;
+}
+/* _______________________Final_________________________ */
