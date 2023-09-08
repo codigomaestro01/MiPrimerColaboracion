@@ -87,3 +87,16 @@ var dataMarily = document.getElementById("dataMarily");
 dataMarily.innerHTML = `
 Mi nombre es: ${Nombres2}  ${Apellidos1},estudie mi sexto grado en el colegio <span class="colegio"> ${colegioSextoGrado}</span>.
 `;
+
+var nombres = "marvin Aquile";
+var apellidos = "tellez urbina";
+var edadmarvin = 18;
+var carreraMarvin = "ingenieria en sistemas"
+var aniocarrera = 2
+
+var datamarvin = document.getElementById("datamarvin");
+datamarvin.innerHTML = `
+ mi nombre es: ${nombres} ${apellidos}, y tengo la edad de <span class="edadmarvin"> ${edadmarvin}</span> años
+ estoy estudiando la carrera <span class="carrera"> ${carreraMarvin} </span> estoy en ${aniocarrera} año
+ `;
+
