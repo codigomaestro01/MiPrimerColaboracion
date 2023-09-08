@@ -58,8 +58,7 @@ dataKatia.innerHTML= `
 Mi nombre es ${nombreEstudent} <span class="apellidoEstudent"> ${apellidoEstudent}<span/>, tengo la edad de <span class="edadEstudent">"${edadEstudent}<span/
 > `;
 
-Mi nombre es: ${miNombres} <span class="miApellidos"> ${miApellidos}</span>, tengo <span class="miEdad">${miedad}</span> años de edad, estudio la carrera de <span class="miCarrera">${micarrera}</span> en URACCAN.
-`;
+
 
 // Datos de Harry Chow:
 let miNombre = "Harry Onaldo";
