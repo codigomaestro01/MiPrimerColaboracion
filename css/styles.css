@@ -119,3 +119,19 @@ h1 {
 }
 
 /* _______________________Final_________________________ */
+.datamarvin {
+    color: black;
+}
+
+.dataMarvin .edadmarvin{
+    font-family: Arial;
+}
+.dataMarvin .carrera{
+    color: brown;
+    width: 60 px;
+}
+h1 {
+    color: black;
+    font-family: monospace;
+}
+/* _______________________Final_________________________ */
