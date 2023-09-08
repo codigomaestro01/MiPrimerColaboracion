@@ -55,7 +55,7 @@ let edadEstudent=18;
 var dataKatia= document.getElementById("dataKatia");
 
 dataKatia.innerHTML= `
-Mi nombre es ${nombreEstudent} <span class="apellidoEstudent"> ${apellidoEstudent}<span/>, tengo la edad de <span class="edadEstudent">"${edadEstudent}<span/
+Mi nombre es ${nombreEstudent} <span class="apellidoEstudent"> ${apellidoEstudent}</span>, tengo la edad de <span class="edadEstudent">"${edadEstudent}</span
 > `;
 
 
