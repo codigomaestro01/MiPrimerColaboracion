@@ -43,6 +43,21 @@ let miedad = 18;
 var dataoscar = document.getElementById("dataoscar");
 
 dataoscar.innerHTML = `
+Mi nombre es: ${miNombres} <span class="miApellidos"> ${miApellidos}</span>, tengo <span class="miEdad">${miedad}</span> de edad, estudio la carrera de <span class="miCarrera">${micarrera}</span> en URACCAN.
+`;
+
+// katia silva
+ 
+let nombreEstudent= "Katia Julieth";
+let apellidoEstudent="Silva Reyes";
+let edadEstudent=18;
+
+var dataKatia= document.getElementById("dataKatia");
+
+dataKatia.innerHTML= `
+Mi nombre es ${nombreEstudent} <span class="apellidoEstudent"> ${apellidoEstudent}<span/>, tengo la edad de <span class="edadEstudent">"${edadEstudent}<span/
+> `;
+
 Mi nombre es: ${miNombres} <span class="miApellidos"> ${miApellidos}</span>, tengo <span class="miEdad">${miedad}</span> años de edad, estudio la carrera de <span class="miCarrera">${micarrera}</span> en URACCAN.
 `;
 
@@ -134,3 +149,4 @@ var dataLesther = document.getElementById("dataLesther");
 dataLesther.innerHTML = `
 mi nombre es ${nombRes} ${apellIdos} y estudie mi undecimo en el colegio <span class="colegio"> ${colegioUndecimoGrado} </span>.
 `;
+

@@ -63,6 +63,16 @@ h1 {
     font-family: Arial;
 }
 
+
+//codigo agredado
+.apellidoEstudent{
+    color: green;
+}
+
+.edadEstudent{
+    color: rgb(0, 0, 255);
+}
+
 .dataHarry .year {
     font-family: Arial;
 }
