@@ -149,3 +149,12 @@ dataLesther.innerHTML = `
 mi nombre es ${nombRes} ${apellIdos} y estudie mi undecimo en el colegio <span class="colegio"> ${colegioUndecimoGrado} </span>.
 `;
 
+// datos de Enos
+let nombreEnos = "Enos Adonis"
+let apellidoEnos="Barrera escobar"
+let edadEnos= 19
+
+var dataEnos = document.getElementById("dataEnos");
+dataEnos.innerHTML= `
+Mi nombre es <span class = "nombreEnos"> ${nombreEnos} ${apellidoEnos} </span>  tengo <span class="edadEnos">${edadEnos}</span> años de edad
+`;
