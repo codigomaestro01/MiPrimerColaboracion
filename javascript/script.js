@@ -137,7 +137,7 @@ var dataJorman = document.getElementById("dataJorman");
 
 dataJorman.innerHTML = `
 Mi nombre es: ${nombresJorman} ${apellidosJorman} tengo <span class="edadjorman">${edadJorman}</span> años de edad, estudio la carrera de <span class="carrerajorman">${carreraJorman}</span> en URACCAN.
-`
+`;
 
 // datos de Lesther
 let nombRes = "Lesther Javier"
@@ -147,6 +147,15 @@ let colegioUndecimoGrado = "Instituto Ruben Dario"
 var dataLesther = document.getElementById("dataLesther");
 dataLesther.innerHTML = `
 mi nombre es ${nombRes} ${apellIdos} y estudie mi undecimo en el colegio <span class="colegio"> ${colegioUndecimoGrado} </span>.
+`;
+
+let nombresbryan="Ab Bryan";
+let apellidosbryan="Arauz Alvarado";
+let carrerabryan="Ingenieria en sistemas";
+
+var dataBryan = document.getElementById("databryan");
+dataBryan.innerHTML=`
+Mi nombre es: ${nombresbryan} ${apellidosbryan}, estudio la carrera de <span class="carrerabryan">${carrerabryan}</span> en URACCAN.
 `;
 
 // datos de Enos
