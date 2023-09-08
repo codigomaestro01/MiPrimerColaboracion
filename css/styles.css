@@ -64,7 +64,7 @@ h1 {
 }
 
 
-//codigo agredado
+
 .apellidoEstudent{
     color: green;
 }
@@ -170,3 +170,19 @@ h1 {
     font-family: verdana;
 }
 /* _______________________Final_________________________ */
+
+.dataEnos {
+    color: black;
+}
+
+.dataEnos .nombreEnos{
+    color: aqua;
+}
+
+.dataEnos .apellidoEnos{
+    color: aqua;
+}
+
+.dataEnos .edadEnos{
+    color: red;
+}
