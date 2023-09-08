@@ -47,14 +47,14 @@ Mi nombre es: ${miNombres} <span class="miApellidos"> ${miApellidos}</span>, ten
 `;
 
 // katia silva
- 
-let nombreEstudent= "Katia Julieth";
-let apellidoEstudent="Silva Reyes";
-let edadEstudent=18;
 
-var dataKatia= document.getElementById("dataKatia");
+let nombreEstudent = "Katia Julieth";
+let apellidoEstudent = "Silva Reyes";
+let edadEstudent = 18;
 
-dataKatia.innerHTML= `
+var dataKatia = document.getElementById("dataKatia");
+
+dataKatia.innerHTML = `
 Mi nombre es ${nombreEstudent} <span class="apellidoEstudent"> ${apellidoEstudent}<span/>, tengo la edad de <span class="edadEstudent">"${edadEstudent}<span/
 > `;
 
@@ -149,21 +149,30 @@ dataLesther.innerHTML = `
 mi nombre es ${nombRes} ${apellIdos} y estudie mi undecimo en el colegio <span class="colegio"> ${colegioUndecimoGrado} </span>.
 `;
 
-let nombresbryan="Ab Bryan";
-let apellidosbryan="Arauz Alvarado";
-let carrerabryan="Ingenieria en sistemas";
+let nombresbryan = "Ab Bryan";
+let apellidosbryan = "Arauz Alvarado";
+let carrerabryan = "Ingenieria en sistemas";
 
 var dataBryan = document.getElementById("databryan");
-dataBryan.innerHTML=`
+dataBryan.innerHTML = `
 Mi nombre es: ${nombresbryan} ${apellidosbryan}, estudio la carrera de <span class="carrerabryan">${carrerabryan}</span> en URACCAN.
 `;
 
 // datos de Enos
-let nombreEnos = "Enos Adonis"
-let apellidoEnos="Barrera escobar"
-let edadEnos= 19
+let nombreEnos = "Enos Adonis";
+let apellidoEnos = "Barrera escobar";
+let edadEnos = 19;
 
 var dataEnos = document.getElementById("dataEnos");
-dataEnos.innerHTML= `
+dataEnos.innerHTML = `
 Mi nombre es <span class = "nombreEnos"> ${nombreEnos} ${apellidoEnos} </span>  tengo <span class="edadEnos">${edadEnos}</span> años de edad
+`;
+
+let Nombremayra = "Mayra Mercedes";
+let Apellidosmayra = "Rodríguez";
+let colegio = "Instituto César Augusto Salinas Pinel";
+
+var datamayra = document.getElementById("datamayra");
+datamayra.innerHTML = `
+Mi nombre es <span class = "Nombremayra">${Nombremayra} </span>${Apellidosmayra} y estudie  en el colegio <span class="colegio"> ${colegio}, </span>
 `;

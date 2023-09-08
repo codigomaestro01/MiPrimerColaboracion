@@ -65,11 +65,11 @@ h1 {
 
 
 
-.apellidoEstudent{
+.apellidoEstudent {
     color: green;
 }
 
-.edadEstudent{
+.edadEstudent {
     color: rgb(0, 0, 255);
 }
 
@@ -133,21 +133,24 @@ h1 {
     color: black;
 }
 
-.dataMarvin .edadmarvin{
+.dataMarvin .edadmarvin {
     font-family: Arial;
 }
-.dataMarvin .carrera{
+
+.dataMarvin .carrera {
     color: brown;
     width: 60 px;
 }
+
 h1 {
     color: black;
     font-family: monospace;
 }
+
 /* _______________________Final_________________________ */
 
 .dataAli .escuela {
-    color:blue
+    color: blue
 }
 
 .dataJorman .carrerajorman {
@@ -159,30 +162,44 @@ h1 {
     font-family: sans-serif;
     /* Cambio de fuente san-serif para la edad */
 }
+
 /* _______________________Final_________________________ */
 
 .dataLesther .colegio {
-    color:green;
+    color: green;
 }
 
 .databryan .carrerabryan {
-    color:yellow;
+    color: yellow;
     font-family: verdana;
 }
+
 /* _______________________Final_________________________ */
 
 .dataEnos {
     color: black;
 }
 
-.dataEnos .nombreEnos{
+.dataEnos .nombreEnos {
     color: aqua;
 }
 
-.dataEnos .apellidoEnos{
+.dataEnos .apellidoEnos {
     color: aqua;
 }
 
-.dataEnos .edadEnos{
+.dataEnos .edadEnos {
     color: red;
+}
+
+.datamayra {
+    color: black
+}
+
+.datamayra .Nombremayra {
+    color: red
+}
+
+.datamayra .colegio {
+    color: yellow
 }
