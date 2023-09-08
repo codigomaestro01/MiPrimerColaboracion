@@ -139,3 +139,14 @@ h1 {
 .dataAli .escuela {
     color:blue
 }
+
+.dataJorman .carrerajorman {
+    width: 40px;
+    color: brown;
+}
+
+.dataJorman .edadjorman {
+    font-family: sans-serif;
+    /* Cambio de fuente san-serif para la edad */
+}
+/* _______________________Final_________________________ */

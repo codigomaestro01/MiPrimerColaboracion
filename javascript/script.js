@@ -112,3 +112,15 @@ dataAli.innerHTML = `
 mi nombre es ${nombreAli} ${apellidoAli} y tengo la edad de ${edadAli} años
 y estudie en el colegio <span class="escuela"> ${escuelaSextoGrado} </span>
 `;
+
+// Datos Jorman
+let nombresJorman = "Jorman Steven";
+let apellidosJorman = "Solano Lopez";
+let carreraJorman = "Ingeniería en Sistemas"
+let edadJorman = 18;
+
+var dataJorman = document.getElementById("dataJorman");
+
+dataJorman.innerHTML = `
+Mi nombre es: ${nombresJorman} ${apellidosJorman} tengo <span class="edadjorman">${edadJorman}</span> años de edad, estudio la carrera de <span class="carrerajorman">${carreraJorman}</span> en URACCAN.
+`
