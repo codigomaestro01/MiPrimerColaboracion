@@ -176,3 +176,13 @@ var datamayra = document.getElementById("datamayra");
 datamayra.innerHTML = `
 Mi nombre es <span class = "Nombremayra">${Nombremayra} </span>${Apellidosmayra} y estudie  en el colegio <span class="colegio"> ${colegio}, </span>
 `;
+
+var nombretania ="tania ferrufino";
+var apellidotania="ferrufino";
+var edadtania = 18;
+var carreratania  = "ing sistema";
+
+var datatania = document.getElementById("datatania");
+datatania.innerHTML =`
+Mi nombre es:${nombretania} ${apellidotania},  estudio <span class="carreratania"> ${carreratania} </span> y tengo la edad de ${edadtania} 
+`
