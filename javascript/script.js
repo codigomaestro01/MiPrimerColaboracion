@@ -77,7 +77,7 @@ dataJosue.innerHTML = `
 Mi nombre es: ${Nombres} <span class="apellidos"> ${Apellidos}</span> tengo <span class="años"> ${Edad}</span> años de edad.
 `;
 
-//Datos de Josue:
+//Datos de Marily:
 let Nombres2 = "MARILY";
 let Apellidos1 = "FAJARDO";
 let colegioSextoGrado = "Mauricio Cajina";
@@ -88,6 +88,7 @@ dataMarily.innerHTML = `
 Mi nombre es: ${Nombres2}  ${Apellidos1},estudie mi sexto grado en el colegio <span class="colegio"> ${colegioSextoGrado}</span>.
 `;
 
+// Datos de No Paca
 var nombres = "marvin Aquile";
 var apellidos = "tellez urbina";
 var edadmarvin = 18;
@@ -100,3 +101,14 @@ datamarvin.innerHTML = `
  estoy estudiando la carrera <span class="carrera"> ${carreraMarvin} </span> estoy en ${aniocarrera} año
  `;
 
+// datos de Hadyi Ali :)
+let nombreAli = "Hadyi Ali"
+let apellidoAli = "Dávila Hernández"
+let edadAli = 18
+let escuelaSextoGrado = "Alfa y Omega"
+
+var dataAli = document.getElementById("dataAli");
+dataAli.innerHTML = `
+mi nombre es ${nombreAli} ${apellidoAli} y tengo la edad de ${edadAli} años
+y estudie en el colegio <span class="escuela"> ${escuelaSextoGrado} </span>
+`;
