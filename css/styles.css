@@ -50,19 +50,23 @@ h1 {
     font-size: 20px;
     font-family: Arial;
 }
+
 .dataoscar .miEdad {
     color: rgb(229, 255, 0);
     /* Cambio el color amarillo para la edad */
 }
+
 .dataoscar .miApellidos {
 
     color: rgb(250, 10, 10);
     font-size: 20px;
     font-family: Arial;
 }
+
 .dataHarry .year {
     font-family: Arial;
 }
+
 .dataHarry .carrer {
     width: 40px;
     color: rgb(112, 59, 23)
@@ -71,27 +75,47 @@ h1 {
 .datanathalie {
 
     color: black;
-;
+    ;
 }
+
 .datanathalie .edadnathalie {
     color: yellow;
 }
+
 .datanathalie .nombresnathalie {
 
     color: violet;
 }
+
 .datanathalie .apellidosnathalie {
 
     color: violet;
 }
+
+/*josue*/
 h1 {
-    color:black;
+    color: black;
     font-family: system-ui;
 }
+
 .dataJosue .apellidos {
     color: brown;
 }
+
 .dataJosue .años {
     color: green;
 }
+
+/* _______________________Final_________________________ */
+
+/*Marily*/
+h1 {
+    color: black;
+    font-family: system-ui;
+}
+
+.dataMarily .colegio {
+    color: blue;
+}
+
 /* _______________________Final_________________________ */

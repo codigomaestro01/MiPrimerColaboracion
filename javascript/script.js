@@ -76,3 +76,14 @@ var dataJosue = document.getElementById("dataJosue");
 dataJosue.innerHTML = `
 Mi nombre es: ${Nombres} <span class="apellidos"> ${Apellidos}</span> tengo <span class="años"> ${Edad}</span> años de edad.
 `;
+
+//Datos de Josue:
+let Nombres2 = "MARILY";
+let Apellidos1 = "FAJARDO";
+let colegioSextoGrado = "Mauricio Cajina";
+
+var dataMarily = document.getElementById("dataMarily");
+
+dataMarily.innerHTML = `
+Mi nombre es: ${Nombres2}  ${Apellidos1},estudie mi sexto grado en el colegio <span class="colegio"> ${colegioSextoGrado}</span>.
+`;
