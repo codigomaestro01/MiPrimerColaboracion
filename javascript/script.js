@@ -185,4 +185,5 @@ var carreratania  = "ing sistema";
 var datatania = document.getElementById("datatania");
 datatania.innerHTML =`
 Mi nombre es:${nombretania} ${apellidotania},  estudio <span class="carreratania"> ${carreratania} </span> y tengo la edad de ${edadtania} 
-`
+`;
+
