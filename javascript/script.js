@@ -187,3 +187,15 @@ datatania.innerHTML =`
 Mi nombre es:${nombretania} ${apellidotania},  estudio <span class="carreratania"> ${carreratania} </span> y tengo la edad de ${edadtania} 
 `;
 
+// Datos de Emily Garcia:
+
+let misNombresEmily = "Emily Dayanne";
+let misApellidosEmily = "Garcia Palacios";
+let miCarreraEmily = "Ingeniería en Sistemas"
+
+var dataEmilyG = document.getElementById("dataEmilyG");
+
+dataEmilyG.innerHTML = `
+Mi nombre es ${misNombresEmily} ${misApellidosEmily},estudio la carrera de <span class="CarreraEmily">${miCarrera}</span>.
+`;
+

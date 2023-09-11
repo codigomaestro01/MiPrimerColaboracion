@@ -204,7 +204,7 @@ h1 {
     color: yellow
 
 }
-}
+
 
 .datatania {
 
@@ -215,4 +215,13 @@ h1 {
 .dataTania .carreratania {
     color: pink;
     font-family: Arial;
+}
+
+/* CSS de Emily */
+
+.dataEmily .CarreraEmily {
+    color: rgb(251, 255, 0);
+    font-family:sans-serif;
+
+    
 }
