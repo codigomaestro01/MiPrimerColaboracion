@@ -199,3 +199,12 @@ dataEmilyG.innerHTML = `
 Mi nombre es ${misNombresEmily} ${misApellidosEmily},estudio la carrera de <span class="CarreraEmily">${miCarrera}</span>.
 `;
 
+// Datos de Alvaro Ortiz:
+var nombreS = "Alvaro Antonio";
+var apellidoS = "Ortiz Cruz";
+var ColegioUndecimoGrado= "Colegio Moravo";
+
+var dataNombres = document.getElementById("dataalvaro");
+   dataalvaro.innerHTML = `
+   Mi nombre es:<span class="nombreS"> ${nombreS} </span> <span class="apellidoS"> ${apellidoS} </span>, estudie mi undecimo grado en ${ColegioUndecimoGrado}
+   `;

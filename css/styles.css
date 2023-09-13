@@ -225,3 +225,16 @@ h1 {
 
     
 }
+
+/* CSS de Alvaro */
+.dataalvaro{
+    color:black;
+}
+
+.dataAlvaro .nombreS{
+    color:orangered;
+}
+
+.dataAlvaro .apellidoS{
+    color: orangered;
+}
